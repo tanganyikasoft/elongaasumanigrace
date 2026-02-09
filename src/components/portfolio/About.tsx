@@ -40,7 +40,7 @@ const About = () => {
               </p>
               <div className="flex items-center gap-3 text-muted-foreground">
                 <MapPin className="h-5 w-5 text-primary shrink-0" />
-                <span>{t("Nyunzu, République Démocratique du Congo", "Nyunzu, Democratic Republic of Congo")}</span>
+                <span>{t("Kalemie, République Démocratique du Congo", "kalemie, Democratic Republic of Congo")}</span>
               </div>
               <div className="flex items-center gap-3 text-muted-foreground">
                 <BookOpen className="h-5 w-5 text-secondary shrink-0" />
