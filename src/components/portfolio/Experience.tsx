@@ -18,7 +18,7 @@ const experiences: Experience[] = [
     titleFr: "Gérant de société",
     titleEn: "Managing Director",
     company: "Tanganyika Soft SARL",
-    periodFr: "Nov 2025 – today 2026",
+    periodFr: "Nov 2025 – actuel 2026",
     periodEn: "Nov 2025 – toDay 2026",
     descFr: [
       "Gestion stratégique et opérationnelle",
