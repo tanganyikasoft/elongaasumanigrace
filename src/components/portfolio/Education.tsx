@@ -32,7 +32,8 @@ const Education = () => {
                     {t("Licence en Informatique mention génie logiciel", "Bachelor's degree in Computer Science with a specialization in Software Engineering")}
                   </h4>
                   <p className="text-primary text-sm font-medium">
-                    Université de kalemie (UNIKAL)
+                    
+                    {t("Université de kalemie (UNIKAL)", "University of Kalemie (UNIKAL)")}
                   </p>
                   <p className="text-muted-foreground text-xs">Kalemie, RDC</p>
                 </div>
