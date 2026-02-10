@@ -41,8 +41,8 @@ const Footer = () => {
 
           <p className="text-xs text-muted-foreground flex items-center gap-1">
             © {new Date().getFullYear()} {t("Fait avec", "Made with")}
-            <Heart className="h-3 w-3 text-accent inline" />
-            {t("par Grace", "by Grace")}
+            
+            {t("par G", "by Grace")}
           </p>
         </div>
       </div>

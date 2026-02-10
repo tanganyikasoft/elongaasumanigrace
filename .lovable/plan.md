@@ -16,7 +16,7 @@ Portfolio bilingue (Français/Anglais) avec un design **coloré et créatif** po
 
 ## 👤 2. Section À propos
 - Présentation détaillée reprenant le résumé du CV
-- Détails personnels : nationalité congolaise, basé à Nyunzu
+- Détails personnels : nationalité congolaise, basé à Kalemie
 - Centres d'intérêt : Lecture, Débats scientifiques, Documentaires, Musique
 - Compétences linguistiques avec barres de progression (Français, Swahili, Anglais, Lingala)
 
@@ -60,7 +60,7 @@ Portfolio bilingue (Français/Anglais) avec un design **coloré et créatif** po
 ## 📬 7. Section Contact
 - Formulaire de contact visuel (nom, email, message)
 - Email : elongaasumanig@gmail.com
-- Localisation : Nyunzu, RDC
+- Localisation : Kalemie, RDC
 - Liens vers réseaux sociaux (espaces réservés pour LinkedIn, GitHub)
 
 ## 🎨 8. Design & Navigation
