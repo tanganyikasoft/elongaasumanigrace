@@ -34,8 +34,8 @@ const About = () => {
             <div className="space-y-6">
               <p className="text-muted-foreground leading-relaxed">
                 {t(
-                  "Ingénieur informaticien spécialisé en génie logiciel, diplômé de l'Institut Supérieur de Commerce de Lubumbashi. Fort d'une expérience variée en développement d'applications, gestion de bases de données, analyse de données et gestion de projets IT dans le secteur humanitaire et les entreprises technologiques.",
-                  "Computer engineer specialized in software engineering, graduated from the Institut Supérieur de Commerce de Lubumbashi. With diverse experience in application development, database management, data analysis, and IT project management in the humanitarian sector and technology companies."
+                  "Ingénieur informaticien spécialisé en génie logiciel, diplômé de l'université de kalemie. Fort d'une expérience variée en développement d'applications, gestion de bases de données, analyse de données et gestion de projets IT dans le secteur humanitaire et les entreprises technologiques.",
+                  "Computer engineer specialized in software engineering, graduated from the universty of kalemie. With diverse experience in application development, database management, data analysis, and IT project management in the humanitarian sector and technology companies."
                 )}
               </p>
               <div className="flex items-center gap-3 text-muted-foreground">
