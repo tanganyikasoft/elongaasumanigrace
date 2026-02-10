@@ -86,6 +86,20 @@ const Education = () => {
                     {t("Septembre 2025", "September 2025")}
                   </p>
                 </div>
+                <div className="border-l-2 border-orange/30 pl-4">
+                  <h4 className="font-semibold text-sm">
+                    {t(
+                      "Cartographie numérique avec QGIS, google earth et open street map",
+                      "Digital mapping using QGIS, Google Earth and OpenStreetMap"
+                    )}
+                  </h4>
+                  <p className="text-orange text-sm font-medium">
+                    Caritas Développement
+                  </p>
+                  <p className="text-muted-foreground text-xs">
+                    {t("Janvier 2026", "January 2026")}
+                  </p>
+                </div>
               </div>
             </div>
           </div>
