@@ -29,19 +29,19 @@ const Education = () => {
               <div className="space-y-4">
                 <div className="border-l-2 border-primary/30 pl-4">
                   <h4 className="font-semibold text-sm">
-                    {t("Licence en Informatique de Gestion", "Bachelor's in Management Information Systems")}
+                    {t("Licence en Informatique mention génie logiciel", "Bachelor's degree in Computer Science with a specialization in Software Engineering")}
                   </h4>
                   <p className="text-primary text-sm font-medium">
-                    Institut Supérieur de Commerce (ISC)
+                    Université de kalemie (UNIKAL)
                   </p>
-                  <p className="text-muted-foreground text-xs">Lubumbashi, RDC</p>
+                  <p className="text-muted-foreground text-xs">Kalemie, RDC</p>
                 </div>
                 <div className="border-l-2 border-secondary/30 pl-4">
                   <h4 className="font-semibold text-sm">
                     {t("Diplôme d'État", "State Diploma")}
                   </h4>
                   <p className="text-secondary text-sm font-medium">
-                    {t("Section Pédagogique", "Pedagogy Section")}
+                    {t("Section commerciale et gestion", "Commercial and Management Section")}
                   </p>
                 </div>
               </div>
